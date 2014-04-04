@@ -1,0 +1,18 @@
+{
+  "name": "ocean-auth",
+  "version": "0.0.1",
+  "description": "passportjs wrapper for facebook login",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "JP",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "passport": "~0.2.0",
+    "passport-facebook": "~1.0.3",
+    "utils-merge": "~1.0.0"
+  }
+}
